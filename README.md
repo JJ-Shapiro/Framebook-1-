@@ -12,6 +12,7 @@ Specs include:
   It has some drawbacks as well however. it doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. I exclusively use earbuds as well, so no speakers are engineered into the design. CAD and pcb design will be posted shortly. I cant afford to build it right now, but maybe someone else who looks for the same qualities in a laptop than me might.
 
 It's also impossible to understate how out of the question this project would be without everyone at Framework who made the mainboard that's powering this, and then open sourced it. I might only be a teenager, but having designed the framebook i can vouch for just how difficult it is to build a decent laptop. Thanks guys!
+wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
 ![image](https://github.com/user-attachments/assets/1ec1e898-1779-42c4-9a47-8270ef1d03cb)
 ![image](https://github.com/user-attachments/assets/1c8a3c03-a9ca-4127-886c-4beb500803eb)
 ![image](https://github.com/user-attachments/assets/87d06d63-4dda-4d0c-a618-a58a63422a90)
