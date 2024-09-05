@@ -11,3 +11,4 @@ Specs include:
 
   It has some drawbacks as well however. it doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. I exclusively use earbuds as well, so no speakers are engineered into the design. CAD and pcb design will be posted shortly. I cant afford to build it right now, but maybe someone else who looks for the same qualities in a laptop than me might.
   
+![image](https://github.com/user-attachments/assets/1ec1e898-1779-42c4-9a47-8270ef1d03cb)
