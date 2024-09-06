@@ -21,12 +21,5 @@ Specs include:
 
 It's also impossible to understate how out of the question this project would be without everyone at Framework who made the mainboard that's powering this, and then open sourced it. I might only be a teenager, but having designed the framebook i can vouch for just how difficult it is to build a decent laptop. Thanks guys!
 wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
-![image](https://github.com/user-attachments/assets/1ec1e898-1779-42c4-9a47-8270ef1d03cb)
-![image](https://github.com/user-attachments/assets/1c8a3c03-a9ca-4127-886c-4beb500803eb)
-![image](https://github.com/user-attachments/assets/87d06d63-4dda-4d0c-a618-a58a63422a90)
-![image](https://github.com/user-attachments/assets/81115ad1-8610-4539-bf93-1e56e0314cd0)
-![image](https://github.com/user-attachments/assets/d1f4ff31-12c1-4050-9d8e-ea51281bd2d3)
-![image](https://github.com/user-attachments/assets/de273a3b-8489-44e7-b0dc-57d50b809fb6)
-![image](https://github.com/user-attachments/assets/2dc25a8d-e2a0-495a-b14d-137410c4f0f3)
-![image](https://github.com/user-attachments/assets/b69c7a0d-3c77-47d8-aff1-4fdd36b73814)
+
 Desinged and rendered mostly on a 2016 macbook by Joe Shapiro. Free to use for personal use with credit. Be warned that this is very much conceptual, and many parts, (including pcb files), have not been uploaded yet.
