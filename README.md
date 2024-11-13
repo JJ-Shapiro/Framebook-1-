@@ -1,5 +1,8 @@
 # Nothing-Laptop---Framebook-1-
-Meet the first fully functioning laptop that incorporates Nothing's design language.
+Meet the Framebook(1)
+
+
+
 ![Framebook(1)](https://github.com/user-attachments/assets/33d73c67-33bb-4ea5-a55e-ba2ab2767e0f)
 ![image](https://github.com/user-attachments/assets/1ec1e898-1779-42c4-9a47-8270ef1d03cb)
 ![image](https://github.com/user-attachments/assets/1c8a3c03-a9ca-4127-886c-4beb500803eb)
