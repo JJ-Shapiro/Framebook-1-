@@ -5,6 +5,7 @@ Meet the Framebook(1)
 
 ![Framebook(1)](https://github.com/user-attachments/assets/33d73c67-33bb-4ea5-a55e-ba2ab2767e0f)
 ![Framebook(1) - Glyph](https://github.com/user-attachments/assets/723fd61d-b474-4c18-a326-7f1b2eedaf21)
+![Framebook(1) - Glyph2](https://github.com/user-attachments/assets/6d594a6a-3441-4d0b-b4a7-a2629bc095f7)
 
 ![image](https://github.com/user-attachments/assets/1ec1e898-1779-42c4-9a47-8270ef1d03cb)
 ![image](https://github.com/user-attachments/assets/1c8a3c03-a9ca-4127-886c-4beb500803eb)
