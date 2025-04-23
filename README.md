@@ -30,3 +30,4 @@ It's also impossible to understate how out of the question this project would be
 wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
 
 Desinged and rendered mostly on a 2016 macbook by Joe Shapiro. Free to use with links to this repository. Be warned that this is very much conceptual, and many parts, (including pcb files), have not been uploaded yet.
+https://torqmaster.com/standard-friction-hinges/
