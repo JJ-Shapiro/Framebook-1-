@@ -18,10 +18,14 @@ Specs include:
 - full aluminium construction
 - wireless charging on laptop lid
 
-  It has some drawbacks as well however. it doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. Most people seem to use earbuds as well, so no speakers are engineered into the design. CAD and pcb design will be posted in the near future. I cant afford to build it personally right now, but maybe someone else who looks for the same qualities in a laptop might.
+  It has some drawbacks as well however. it doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. Most people seem to use earbuds as well, so no speakers are engineered into the design. I cant afford to build it personally right now, but maybe someone else who looks for the same qualities in a laptop might.
 
 It's also impossible to understate how out of the question this project would be without everyone at Framework who have made the mainboard that's powering this, and then open sourced it. Thanks guys!
 wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
 
-Desinged and rendered mostly on a 2016 macbook by Joe Shapiro. Free to use with links to this repository. Be warned that this is very much conceptual, and many parts, (including pcb files), have not been uploaded yet.
+Desinged and rendered by Joe Shapiro. Free to use with links to this repository. Be warned that this is very much conceptual.
+
+A note on the, "Useful Datasheets folder":
+These datasheets are not mine, nor do I claim them to be. They are simply a useful resource for others looking to build upon this design, and some security in the event that datasheets are moved in future. Information will be removed at the request of the company if asked. 
+
 https://torqmaster.com/standard-friction-hinges/
