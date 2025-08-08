@@ -21,7 +21,9 @@ Specs include:
   It has some drawbacks as well however. it doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. Most people seem to use earbuds as well, so no speakers are engineered into the design. I cant afford to build it personally right now, but maybe someone else who looks for the same qualities in a laptop might.
 
 It's also impossible to understate how out of the question this project would be without everyone at Framework who have made the mainboard that's powering this, and then open sourced it. Thanks guys!
-wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
+
+Wallpaper used in renders is made by Andrew Ethan Zeng. (https://youtube.com/@andrewethanzeng?si=NbJvvR-DBk3v8lxS)
+Massive thanks to Arya for all of their hard work making a FW13 to USB adapter. Check them out here: https://github.com/CRImier/MyKiCad/tree/master/Laptop%20mods/framework_input_controller
 
 Desinged and rendered by Joe Shapiro. Free to use with links to this repository. Be warned that this is very much conceptual.
 
