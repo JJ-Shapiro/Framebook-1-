@@ -1,5 +1,7 @@
 # FrameBook(1)
 Meet the Framebook(1)
+<img width="1920" height="1080" alt="Framebook 170825(2)" src="https://github.com/user-attachments/assets/685f9b43-ce22-4ee0-8f06-faf4b9a535a0" />
+<img width="1920" height="1080" alt="Framebook 170825" src="https://github.com/user-attachments/assets/548eba3b-5cd9-41e6-8f0e-9e45e96e7835" />
 
 
 
