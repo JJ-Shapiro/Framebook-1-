@@ -29,6 +29,8 @@ There's more fun as well! Aside from the glyphs on the back I've designed in a s
 
   It has some drawbacks as well however. It doesnt have a webcam, instead relying on the GCam app and a magsafe mod to provide video using your phones front camera. Most people seem to use earbuds as well, so no speakers are engineered into the design. I can't afford to build it personally right now, but maybe someone else who looks for the same qualities in a laptop might.
 
+By the way, I'm sixteen and hoping for some work experience? If you have any interest in letting a very enthusisastic and relatively proficient teenager spend some time at an engineering company I'd appreciate any offer. 
+
 Massive thanks to Arya for all of their hard work making a FW13 to USB adapter. Check them out here: https://github.com/CRImier/MyKiCad/tree/master/Laptop%20mods/framework_input_controller
 
 Desinged and rendered by Joe Shapiro. Free to use with links to this repository. Be warned that this is very much conceptual.
